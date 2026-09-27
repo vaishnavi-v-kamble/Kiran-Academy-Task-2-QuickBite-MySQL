@@ -1,2 +1,26 @@
 # Kiran-Academy-Task-2-QuickBite-MySQL
 Kiran Academy Task 2 – QuickBite MySQL Company-Level Challenge solutions.
+
+*Topics Used in This Practical*
+
+CREATE DATABASE
+USE
+CREATE TABLE
+DESC / DESCRIBE
+SHOW TABLES
+INSERT
+SELECT
+WHERE
+AND
+OR
+NOT
+BETWEEN
+IN
+LIKE
+UPDATE
+DELETE
+ALTER TABLE
+ADD COLUMN
+MODIFY COLUMN
+RENAME COLUMN
+DROP COLUMN
